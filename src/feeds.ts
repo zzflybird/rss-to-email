@@ -1,10 +1,10 @@
 export const feeds = [
-  // Daring Fireball
-  'https://daringfireball.net/feeds/main',
+  // kexue
+  'https://kexue.fm/feed',
 
-  // JakeArchibald.com
-  'https://jakearchibald.com/posts.rss',
+  // Bojie Li (李博杰)
+  'https://01.me/atom.xml',
 
   // Appjeniksaan
-  'https://appjeniksaan.nl/feed.xml',
+  // 'https://appjeniksaan.nl/feed.xml',
 ]
